@@ -1,0 +1,101 @@
+.container{
+    background-color: #6983d3;
+    text-align: center;
+}
+
+.nome{
+    margin-top: 10%;
+    color: blue;
+
+}
+
+p{
+    margin: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.mensagem-btn{
+    font-size: 20px;
+    color: black;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    margin-top: 60px;
+}
+
+.mensagem{
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+h2{
+    font-size: 50px;
+    color: black;
+    margin-top: 150px;
+}
+
+.hobbies-list{
+    display: inline-block;
+    margin: 0;
+    text-align: left;
+    padding-left: 20px;
+    list-style-position: inside;
+}
+.hobbies-list li{
+    font-size: 25px;
+    list-style-type: square;
+    margin: 0 0 5px 0;
+    padding-right: 150px;
+}
+
+.imagem1 {
+    width: 200px;
+    height: auto;
+    border-radius: 4%;
+}
+
+h3{
+    font-size: 40px;
+    color: black;
+    margin-top: 200px;
+}
+
+.tabela{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+
+.tabela-titulo{
+    font-size: 40px;
+    color: black;
+    margin-top: 50px;
+}
+
+.tabela-conteudo1, .tabela-conteudo2, .tabela-conteudo3, td{
+    font-size: 30px;
+    padding: 10px;   
+}
+
+.img1, .img2, .img3{
+    width: 170px;
+    height: auto;
+    border-radius: 4%;
+}
+
+h4{
+    font-size: 30px;
+    color: black;
+    margin-top: 400px;
+    margin-bottom: 20px;
+}
+
+.link{
+    font-size: 30px;
+    display: inline-block;
+    margin-bottom: 270px;
+}
+
